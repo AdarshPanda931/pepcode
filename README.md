@@ -8,3 +8,4 @@
 6. reverseDigitsVertically.java <https://github.com/AdarshPanda931/pepcode/blob/main/reverseDigitsVertically.java>
 7. rotateNumber.java <https://github.com/AdarshPanda931/pepcode/blob/main/rotateNumber.java>
 8. gcdAndLcm.java <https://github.com/AdarshPanda931/pepcode/blob/main/gcdAndLcm.java>
+9. primeFactorization.java <https://github.com/AdarshPanda931/pepcode/blob/main/primeFactorization.java>
