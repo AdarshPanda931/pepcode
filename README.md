@@ -9,3 +9,4 @@
 7. rotateNumber.java <https://github.com/AdarshPanda931/pepcode/blob/main/rotateNumber.java>
 8. gcdAndLcm.java <https://github.com/AdarshPanda931/pepcode/blob/main/gcdAndLcm.java>
 9. primeFactorization.java <https://github.com/AdarshPanda931/pepcode/blob/main/primeFactorization.java>
+10. pythagoreanTriplet.java <https://github.com/AdarshPanda931/pepcode/blob/main/pythagoreanTriplet.java>
