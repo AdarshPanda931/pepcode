@@ -12,3 +12,4 @@
 10. pythagoreanTriplet.java <https://github.com/AdarshPanda931/pepcode/blob/main/pythagoreanTriplet.java>
 11. benjaminBulbs.java <https://github.com/AdarshPanda931/pepcode/blob/main/benjaminBulbs.java>
 12. digitsFrequency.java <https://github.com/AdarshPanda931/pepcode/blob/main/digitsFrequency.java>
+13. anyBaseToDecimal.java <https://github.com/AdarshPanda931/pepcode/blob/main/anyBaseToDecimal.java>
