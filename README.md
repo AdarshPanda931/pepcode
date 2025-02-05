@@ -13,3 +13,4 @@
 11. benjaminBulbs.java <https://github.com/AdarshPanda931/pepcode/blob/main/benjaminBulbs.java>
 12. digitsFrequency.java <https://github.com/AdarshPanda931/pepcode/blob/main/digitsFrequency.java>
 13. anyBaseToDecimal.java <https://github.com/AdarshPanda931/pepcode/blob/main/anyBaseToDecimal.java>
+14. anyBaseToAnyBase.java <https://github.com/AdarshPanda931/pepcode/blob/main/anyBaseToAnyBase.java>
