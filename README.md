@@ -14,3 +14,4 @@
 12. digitsFrequency.java <https://github.com/AdarshPanda931/pepcode/blob/main/digitsFrequency.java>
 13. anyBaseToDecimal.java <https://github.com/AdarshPanda931/pepcode/blob/main/anyBaseToDecimal.java>
 14. anyBaseToAnyBase.java <https://github.com/AdarshPanda931/pepcode/blob/main/anyBaseToAnyBase.java>
+15. findElementInArray.java <https://github.com/AdarshPanda931/pepcode/blob/main/findElementInArray.java>
