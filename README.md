@@ -17,3 +17,4 @@
 15. findElementInArray.java <https://github.com/AdarshPanda931/pepcode/blob/main/findElementInArray.java>
 16. balancedBrackets.java <https://github.com/AdarshPanda931/pepcode/blob/main/balancedBrackets.java>
 17. nextGreaterElementToRight.java <https://github.com/AdarshPanda931/pepcode/blob/main/nextGreaterElementToRight.java>
+18. nextGreaterElementToRight2.java <https://github.com/AdarshPanda931/pepcode/blob/main/nextGreaterElementToRight2.java>
