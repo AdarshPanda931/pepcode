@@ -20,3 +20,4 @@
 18. nextGreaterElementToRight2.java <https://github.com/AdarshPanda931/pepcode/blob/main/nextGreaterElementToRight2.java>
 19. stockSpan.java <https://github.com/AdarshPanda931/pepcode/blob/main/stockSpan.java>
 20. largestAreaHistogram.java <https://github.com/AdarshPanda931/pepcode/blob/main/largestAreaHistogram.java>
+21. slindingWindowMaximum.java <https://github.com/AdarshPanda931/pepcode/blob/main/slindingWindowMaximum.java>
