@@ -28,6 +28,7 @@
 ### opps :-
 
 ### recurssion :-
+23. 
 
 ### dp :-
 
