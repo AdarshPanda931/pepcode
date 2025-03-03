@@ -17,18 +17,18 @@
 14. anyBaseToAnyBase.java <https://github.com/AdarshPanda931/pepcode/blob/main/anyBaseToAnyBase.java>
     
 ### stack :-
-16. findElementInArray.java <https://github.com/AdarshPanda931/pepcode/blob/main/findElementInArray.java>
-17. balancedBrackets.java <https://github.com/AdarshPanda931/pepcode/blob/main/balancedBrackets.java>
-18. nextGreaterElementToRight.java <https://github.com/AdarshPanda931/pepcode/blob/main/nextGreaterElementToRight.java>
-19. nextGreaterElementToRight2.java <https://github.com/AdarshPanda931/pepcode/blob/main/nextGreaterElementToRight2.java>
-20. stockSpan.java <https://github.com/AdarshPanda931/pepcode/blob/main/stockSpan.java>
-21. largestAreaHistogram.java <https://github.com/AdarshPanda931/pepcode/blob/main/largestAreaHistogram.java>
-22. slindingWindowMaximum.java <https://github.com/AdarshPanda931/pepcode/blob/main/slindingWindowMaximum.java>
+15. findElementInArray.java <https://github.com/AdarshPanda931/pepcode/blob/main/findElementInArray.java>
+16. balancedBrackets.java <https://github.com/AdarshPanda931/pepcode/blob/main/balancedBrackets.java>
+17. nextGreaterElementToRight.java <https://github.com/AdarshPanda931/pepcode/blob/main/nextGreaterElementToRight.java>
+18. nextGreaterElementToRight2.java <https://github.com/AdarshPanda931/pepcode/blob/main/nextGreaterElementToRight2.java>
+19. stockSpan.java <https://github.com/AdarshPanda931/pepcode/blob/main/stockSpan.java>
+20. largestAreaHistogram.java <https://github.com/AdarshPanda931/pepcode/blob/main/largestAreaHistogram.java>
+21. slindingWindowMaximum.java <https://github.com/AdarshPanda931/pepcode/blob/main/slindingWindowMaximum.java>
     
 ### opps :-
 
 ### recurssion :-
-23. 
+22. 
 
 ### dp :-
 
